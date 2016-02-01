@@ -173,6 +173,6 @@ By default, banners are visible. To temporarily hide a banner, call:
 Additional Resources
 ====================
 其他资源
-* [Baidu](https://apps.baidu.com/)
-* [Baidu Unity Plugin Home](https://github.com/unity-plugins/Unity-Baidu)
+* [Baidu](https://ssp.baidu.com/)
+* [Baidu Unity Plugin Home](https://github.com/unity-plugins/BaiDu-Unity-Plugin)
 
